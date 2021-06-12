@@ -94,7 +94,7 @@ function setup() {
 
 
 function draw() {
-  background("ack");
+  background("black");
   textSize(20)
  
   Engine.update(engine);
