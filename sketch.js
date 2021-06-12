@@ -95,7 +95,7 @@ function setup() {
 
 function draw() {
   background("black");
-  textSize(20)
+ 
  
   Engine.update(engine);
   ground.display();
